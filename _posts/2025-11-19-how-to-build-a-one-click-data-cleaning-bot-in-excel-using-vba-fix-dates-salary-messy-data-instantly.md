@@ -1,7 +1,6 @@
 ---
 layout: post
-title: How to Build a One-Click Data Cleaning Bot in Excel Using VBA (Fix Dates,
-  Salary & Messy Data Instantly)
+title: How to Build a One-Click Data Cleaning Bot in Excel Using VBA
 image: /images/blog/blog7.webp
 date: 2025-11-19T18:56:00.000+05:30
 categories:
