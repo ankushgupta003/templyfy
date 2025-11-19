@@ -5,7 +5,7 @@ title: How to Build a One-Click Data Cleaning Bot in Excel Using VBA (Fix Dates,
 image: /images/blog/blog7.webp
 date: 2025-11-19T18:56:00.000+05:30
 categories:
-  - Ms Excel
+  - MS Excel
 tags:
   - Excel VBA data cleaning
   - Excel automation tool
