@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 5 Google Sheets Templates Every Student Needs
-image: /images/blog/blog3.webp
+image: /images/blog/blog5.webp
 date: 2025-09-03T22:13:00.000+05:30
 categories:
   - Google Sheets
